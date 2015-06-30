@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  color: black;
+  color: #000000;
 }
 header.masthead .bannercontainer {
   width: 100%;
@@ -28,13 +28,13 @@ header.masthead h1 {
   font-weight: bold;
 }
 header.masthead .tp-caption a {
-  color: white;
+  color: #FFFFFF;
 }
 header.masthead .tp-caption a:hover {
   color: #eeeeee;
 }
 header.masthead h1, header.masthead h2, header.masthead h3 {
-  color: white;
+  color: #FFFFFF;
 }
 header.masthead .mh-slider {
   position: absolute;
@@ -151,7 +151,7 @@ header.masthead .mh-slider {
   height: 38px;
 }
 #slider .container .btn-group .btn:hover {
-  border: 1px solid white;
+  border: 1px solid #FFFFFF;
 }
 #slider .container .btn-group .btn:hover span.android {
   background-position: 0 -100px;
@@ -181,7 +181,7 @@ header.masthead .mh-slider {
   -moz-box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
   -o-box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
   box-shadow: 0 0 3px rgba(0, 0, 0, 0.2);
-  background: white;
+  background: #FFFFFF;
   min-height: 70px;
   border: none !important;
 }
@@ -246,7 +246,7 @@ header.masthead .mh-slider {
   background: #de5749;
 }
 #nav .navbar-nav.social li:hover a i {
-  color: white;
+  color: #FFFFFF;
 }
 
 section {
@@ -257,11 +257,11 @@ section#features {
 }
 section#features .feature {
   text-align: center;
-  color: white;
+  color: #FFFFFF;
 }
 section#features .feature .icon i {
-  border: 1px solid white;
-  color: white;
+  border: 1px solid #FFFFFF;
+  color: #FFFFFF;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
@@ -299,12 +299,12 @@ section#features .carousel-indicators li.active {
   width: 15px;
   margin: 3px;
   height: 15px;
-  background: white;
-  border-color: white;
+  background: #FFFFFF;
+  border-color: #FFFFFF;
 }
 section#download {
   background-image: url(../img/download_bk.jpg);
-  color: white;
+  color: #FFFFFF;
   position: relative;
 }
 section#download:after {
@@ -396,7 +396,7 @@ section#download .container .btn-group .btn span.micstore {
   height: 56px;
 }
 section#download .container .btn-group .btn:hover {
-  border: 1px solid white;
+  border: 1px solid #FFFFFF;
 }
 section#download .container .btn-group .btn:hover span.android {
   background-position: 0 -150px;
@@ -426,7 +426,7 @@ section#download .container .btn-group.small .btn:hover {
   border: none !important;
 }
 section#settings {
-  color: white;
+  color: #FFFFFF;
   background: #de5749;
 }
 section#settings img {
@@ -451,7 +451,7 @@ section#settings .iphone-settings {
   position: relative;
 }
 section#screenshots {
-  background: white;
+  background: #FFFFFF;
 }
 section#screenshots .section-heading {
   color: #999999;
@@ -515,9 +515,9 @@ section#packages .section-heading p {
   color: #555555;
 }
 section#packages .pack {
-  background: white;
+  background: #FFFFFF;
   text-align: center;
-  border: 7px solid white;
+  border: 7px solid #FFFFFF;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   -ms-border-radius: 3px;
@@ -531,7 +531,7 @@ section#packages .pack {
 }
 section#packages .pack .heading {
   background: #25a7b4;
-  color: white;
+  color: #FFFFFF;
   -webkit-border-radius: 3px 3px 0 0;
   -moz-border-radius: 3px 3px 0 0;
   -ms-border-radius: 3px 3px 0 0;
@@ -576,7 +576,7 @@ section#packages .pack .details ul li:first-child {
   border: none;
 }
 section#packages .pack .details .btn-sign-up {
-  background: white;
+  background: #FFFFFF;
   color: #25a7b4;
   width: 85%;
   margin: 0 auto;
@@ -591,20 +591,20 @@ section#packages .pack:hover {
   transform: translatey(-30px);
 }
 section#packages .pack:hover .heading {
-  background: white;
+  background: #FFFFFF;
   color: #25a7b4;
 }
 section#packages .pack:hover .details {
   background: #25a7b4;
-  color: white;
+  color: #FFFFFF;
 }
 section#packages .pack:hover .details ul li {
   border-color: #29bbc9;
-  color: white;
+  color: #FFFFFF;
 }
 section#packages .pack:hover .details .btn-sign-up {
   background: #25a7b4;
-  color: white;
+  color: #FFFFFF;
   opacity: 1;
   -webkit-transform: translatey(45px);
   -moz-transform: translatey(45px);
@@ -671,8 +671,8 @@ section#team .car-next, section#team .car-prev {
 section#team .car-next i, section#team .car-prev i {
   width: 50px;
   height: 50px;
-  border: 1px solid white;
-  color: white;
+  border: 1px solid #FFFFFF;
+  color: #FFFFFF;
   border-radius: 50%;
   padding-top: 11px;
   padding-right: 5px;
@@ -690,8 +690,8 @@ section#team .car-next i {
   padding-left: 5px;
 }
 section#team .member {
-  border: 1px solid white;
-  color: white;
+  border: 1px solid #FFFFFF;
+  color: #FFFFFF;
   padding: 20px;
   margin: 30px 0;
   -webkit-transition: all 0.25s ease-in-out;
@@ -701,7 +701,7 @@ section#team .member {
 }
 section#team .member img {
   width: 150px;
-  border: 2px solid white;
+  border: 2px solid #FFFFFF;
 }
 section#team .member .media .pull-left {
   margin-right: 20px;
@@ -722,7 +722,7 @@ section#team .member .media .media-heading ul li {
   float: left;
 }
 section#team .member .media .media-heading ul li a i {
-  color: white;
+  color: #FFFFFF;
   margin: 0 5px;
   -webkit-transition: all 0.25s ease-in-out;
   -o-transition: all 0.25s ease-in-out;
@@ -739,7 +739,7 @@ section#team .member .media p {
 section#team .member .media span.divider {
   width: 40%;
   height: 1px;
-  background: white;
+  background: #FFFFFF;
   display: block;
   margin: 10px 0;
   -webkit-transition: all 0.25s ease-in-out;
@@ -748,7 +748,7 @@ section#team .member .media span.divider {
   transition: all 0.25s ease-in-out;
 }
 section#team .member:hover {
-  background: white;
+  background: #FFFFFF;
   color: #555555;
 }
 section#team .member:hover .media-heading {
@@ -764,7 +764,7 @@ section#subscribe {
   background-image: url(../img/grey.jpg);
   position: relative;
   padding: 0;
-  color: white;
+  color: #FFFFFF;
 }
 section#subscribe:before {
   content: "";
@@ -783,7 +783,7 @@ section#subscribe .newsletter-wrapper {
 }
 section#subscribe h3 {
   font-weight: 300;
-  color: white;
+  color: #FFFFFF;
   text-transform: uppercase;
 }
 section#subscribe h3 span {
@@ -793,7 +793,7 @@ section#subscribe span.divider {
   display: block;
   width: 30%;
   height: 1px;
-  background: white;
+  background: #FFFFFF;
   margin: 20px 0;
 }
 section#subscribe p {
@@ -820,7 +820,7 @@ section#subscribe .form-group .form-control-feedback {
   width: inherit;
   border: none;
   background: #25a7b4;
-  color: white;
+  color: #FFFFFF;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   -ms-border-radius: 3px;
@@ -844,14 +844,14 @@ section#map {
   height: 450px;
 }
 section#sponsors {
-  background: white;
+  background: #FFFFFF;
 }
 
 footer {
   background-image: url(../img/grey.jpg);
   position: relative;
   padding: 5px 0;
-  color: white;
+  color: #FFFFFF;
 }
 footer:before {
   content: "";
@@ -874,13 +874,13 @@ footer form .form-control {
 footer form .btn {
   padding: 8px 18px;
   background: #2e2e2e;
-  color: white;
+  color: #FFFFFF;
   border-color: #2e2e2e;
 }
 footer form .btn:hover {
   border-color: #3b3b3b;
   background: #3b3b3b;
-  color: white;
+  color: #FFFFFF;
 }
 footer .social {
   text-align: center;
@@ -908,20 +908,20 @@ footer .social ul li a {
   display: inline-block;
 }
 footer .social ul li a i {
-  color: white;
+  color: #FFFFFF;
   -webkit-transition: all 0.25s ease-in-out;
   -o-transition: all 0.25s ease-in-out;
   -moz-transition: all 0.25s ease-in-out;
   transition: all 0.25s ease-in-out;
 }
 footer .social ul li a:hover {
-  background: white;
+  background: #FFFFFF;
 }
 footer .social ul li a:hover i {
   color: #25a7b4;
 }
 footer .rights {
-  color: white;
+  color: #FFFFFF;
   font-weight: 300;
   text-align: center;
   font-size: 15px;
@@ -930,7 +930,7 @@ footer .rights span {
   font-weight: bold;
 }
 footer .rights a {
-  color: white;
+  color: #FFFFFF;
 }
 
 .form-control {
@@ -962,31 +962,31 @@ footer .rights a {
   -moz-transition: all 0.25s ease-in-out;
   transition: all 0.25s ease-in-out;
   padding: 12px 18px;
-  border: 2px solid white;
+  border: 2px solid #FFFFFF;
   margin-right: 10px;
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
   box-shadow: none;
 }
 .btn:hover {
-  border: 2px solid white;
+  border: 2px solid #FFFFFF;
 }
 
 .btn.btn-default {
-  background: white;
+  background: #FFFFFF;
   color: #de5749;
 }
 .btn.btn-default:hover {
   background: none;
-  color: white;
+  color: #FFFFFF;
 }
 
 .btn.btn-empty {
   background: none;
-  color: white;
+  color: #FFFFFF;
 }
 .btn.btn-empty:hover {
-  background: white;
+  background: #FFFFFF;
   color: #de5749;
 }
 
@@ -1000,14 +1000,14 @@ a {
 .section-heading {
   text-align: center;
   padding: 30px 0;
-  color: white;
+  color: #FFFFFF;
 }
 .section-heading h1, .section-heading h2, .section-heading h3 {
   text-transform: uppercase;
-  color: white;
+  color: #FFFFFF;
 }
 .section-heading h4, .section-heading p {
-  color: white;
+  color: #FFFFFF;
   line-height: 22px;
 }
 .section-heading i {
@@ -1020,7 +1020,7 @@ a {
   position: relative;
   height: 2px;
   width: 15%;
-  background: white;
+  background: #FFFFFF;
   display: block;
   margin: 10px auto;
 }
@@ -1081,12 +1081,10 @@ a {
   100% {
     -webkit-transform: scale(0);
   }
-
   40% {
     -webkit-transform: scale(1);
   }
 }
-
 @keyframes bouncedelay {
   0%,
   80%,
@@ -1094,16 +1092,16 @@ a {
     transform: scale(0);
     -webkit-transform: scale(0);
   }
-
   40% {
     transform: scale(1);
     -webkit-transform: scale(1);
   }
 }
-
 @media (max-width: 767px) {
   #nav .navbar-nav li a {
     padding-top: 10px;
     padding-bottom: 10px;
   }
 }
+
+/*# sourceMappingURL=styles.css.map */
