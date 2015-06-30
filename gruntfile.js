@@ -44,13 +44,6 @@ module.exports = function(grunt) {
 		    exclusions: ['.ftppass', '.git','node_modules','gruntfile.js','package.json','app/sass/**.scss']
 		  }
 		},
-		'static-deploy': {
-		  build: {
-		    src: '.',
-		    dest: '../seven',
-		    exclusions: ['.git','node_modules','gruntfile.js','package.json','app/sass/**.scss']
-		  }
-		},
 		backup: {
 		    root_backup: {
 		      	src: '.',
@@ -92,7 +85,6 @@ module.exports = function(grunt) {
 	grunt.task.registerTask('default', ['connect','watch']);
 	grunt.task.registerTask('git', ['bumpup:patch','shell:git_add','shell:git_commit','shell:git_push']);
 	grunt.task.registerTask('ftp', ['ftp-deploy']);
-	grunt.task.registerTask('static', ['static-deploy']);
 	grunt.task.registerTask('goodbye', ['shell:shutdown']);
 
 };
