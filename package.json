@@ -1,8 +1,8 @@
 {
-  "name": "SevenApp",
-  "version": "0.0.5",
-  "lastComment": "updates",
-  "description": "Free Bootstrap 3 Multi Purpose OnePage Template",
+  "name": "Greplr",
+  "version": "0.1.1",
+  "lastComment": "update website",
+  "description": "Greplr: One app to rule them all",
   "main": "app/index.html",
   "dependencies": {
     "grunt": "~0.4.1",

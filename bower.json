@@ -1,8 +1,9 @@
 {
-  "name": "sevenapp",
+  "name": "greplr",
   "version": "0.0.0",
   "authors": [
     "ScoopThemes <help@scoopthemes.com>"
+    "Greplr <hi@greplr.com>"
   ],
   "main": "app/index.html",
   "license": "MIT",
