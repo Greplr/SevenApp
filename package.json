@@ -1,6 +1,6 @@
 {
   "name": "Greplr",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "lastComment": "update website",
   "description": "Greplr: One app to rule them all",
   "main": "app/index.html",
