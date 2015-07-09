@@ -20,6 +20,7 @@
     <link rel="stylesheet" href="css/owl.theme.css">
     <link rel="stylesheet" href="css/styles.css">
     <script src="js/modernizr.custom.32033.js"></script>
+    <script src="js/emailapi.js"></script>
 
     <!--[if IE]><script type="text/javascript" src="js/excanvas.compiled.js"></script><![endif]-->
 
@@ -741,8 +742,8 @@
                             <span class="divider scrollpoint sp-effect3"></span>
                             <p class="scrollpoint sp-effect3">Sign up below for exciting news and updates about Greplr.</p>
                             <div class="form-group has-feedback">
-                                <input type="text" class="form-control" placeholder="Email">
-                                <button class="form-control-feedback">subscribe</button>
+                                <input type="text" class="form-control" placeholder="Email" id="subscribeEmail">
+                                <button class="form-control-feedback" onclick="doSubscribe()">subscribe</button>
                             </div>
                             <p>Want to get private access to greplr? <br> Sign up and be the first to get access to our Beta. Stay updated with regular notifications and updates regarding Greplr and be the first to know when we launch. </p>
                         </div>
